@@ -1,0 +1,17 @@
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\bin\Debug\net6.0-windows\textfile-read-write.exe
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\bin\Debug\net6.0-windows\textfile-read-write.deps.json
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\bin\Debug\net6.0-windows\textfile-read-write.runtimeconfig.json
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\bin\Debug\net6.0-windows\textfile-read-write.dll
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\bin\Debug\net6.0-windows\textfile-read-write.pdb
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\obj\Debug\net6.0-windows\textfile-read-write.vbproj.AssemblyReference.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\obj\Debug\net6.0-windows\textfile_read_write.Form1.resources
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\obj\Debug\net6.0-windows\textfile-read-write.vbproj.GenerateResource.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\obj\Debug\net6.0-windows\textfile-read-write.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\obj\Debug\net6.0-windows\textfile-read-write.AssemblyInfoInputs.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\obj\Debug\net6.0-windows\textfile-read-write.AssemblyInfo.vb
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\obj\Debug\net6.0-windows\textfile-read-write.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\obj\Debug\net6.0-windows\textfile-read-write.dll
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\obj\Debug\net6.0-windows\refint\textfile-read-write.dll
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\obj\Debug\net6.0-windows\textfile-read-write.pdb
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\obj\Debug\net6.0-windows\textfile-read-write.genruntimeconfig.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\textfile-read-write\textfile-read-write\obj\Debug\net6.0-windows\ref\textfile-read-write.dll
