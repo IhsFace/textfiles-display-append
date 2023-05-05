@@ -1,0 +1,17 @@
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\bin\Debug\net6.0-windows\sac-score-display.exe
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\bin\Debug\net6.0-windows\sac-score-display.deps.json
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\bin\Debug\net6.0-windows\sac-score-display.runtimeconfig.json
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\bin\Debug\net6.0-windows\sac-score-display.dll
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\bin\Debug\net6.0-windows\sac-score-display.pdb
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\obj\Debug\net6.0-windows\sac-score-display.vbproj.AssemblyReference.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\obj\Debug\net6.0-windows\sac_score_display.Form1.resources
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\obj\Debug\net6.0-windows\sac-score-display.vbproj.GenerateResource.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\obj\Debug\net6.0-windows\sac-score-display.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\obj\Debug\net6.0-windows\sac-score-display.AssemblyInfoInputs.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\obj\Debug\net6.0-windows\sac-score-display.AssemblyInfo.vb
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\obj\Debug\net6.0-windows\sac-score-display.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\obj\Debug\net6.0-windows\sac-score-display.dll
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\obj\Debug\net6.0-windows\refint\sac-score-display.dll
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\obj\Debug\net6.0-windows\sac-score-display.pdb
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\obj\Debug\net6.0-windows\sac-score-display.genruntimeconfig.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\sac-score-display\sac-score-display\obj\Debug\net6.0-windows\ref\sac-score-display.dll
