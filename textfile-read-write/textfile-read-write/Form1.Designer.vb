@@ -71,11 +71,12 @@ Partial Class Form1
         ' 
         ' lstData
         ' 
+        lstData.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
         lstData.FormattingEnabled = True
-        lstData.ItemHeight = 15
+        lstData.ItemHeight = 24
         lstData.Location = New Point(330, 100)
         lstData.Name = "lstData"
-        lstData.Size = New Size(216, 214)
+        lstData.Size = New Size(220, 220)
         lstData.TabIndex = 4
         ' 
         ' Form1

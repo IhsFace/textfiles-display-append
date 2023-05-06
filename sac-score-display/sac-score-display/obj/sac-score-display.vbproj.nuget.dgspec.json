@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ihsaa\\GitHub Projects\\textfiles-display-append\\sac-score-display\\sac-score-display\\sac-score-display.vbproj": {}
+    "F:\\GitHub Projects\\textfiles-display-append\\sac-score-display\\sac-score-display\\sac-score-display.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\ihsaa\\GitHub Projects\\textfiles-display-append\\sac-score-display\\sac-score-display\\sac-score-display.vbproj": {
+    "F:\\GitHub Projects\\textfiles-display-append\\sac-score-display\\sac-score-display\\sac-score-display.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ihsaa\\GitHub Projects\\textfiles-display-append\\sac-score-display\\sac-score-display\\sac-score-display.vbproj",
+        "projectUniqueName": "F:\\GitHub Projects\\textfiles-display-append\\sac-score-display\\sac-score-display\\sac-score-display.vbproj",
         "projectName": "sac-score-display",
-        "projectPath": "C:\\Users\\ihsaa\\GitHub Projects\\textfiles-display-append\\sac-score-display\\sac-score-display\\sac-score-display.vbproj",
+        "projectPath": "F:\\GitHub Projects\\textfiles-display-append\\sac-score-display\\sac-score-display\\sac-score-display.vbproj",
         "packagesPath": "C:\\Users\\ihsaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ihsaa\\GitHub Projects\\textfiles-display-append\\sac-score-display\\sac-score-display\\obj\\",
+        "outputPath": "F:\\GitHub Projects\\textfiles-display-append\\sac-score-display\\sac-score-display\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,8 +25,7 @@
           "net6.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
@@ -62,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

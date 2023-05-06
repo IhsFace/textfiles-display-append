@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ihsaa\\GitHub Projects\\textfiles-display-append\\textfile-read-write\\textfile-read-write\\textfile-read-write.vbproj",
+      "projectUniqueName": "F:\\GitHub Projects\\textfiles-display-append\\textfile-read-write\\textfile-read-write\\textfile-read-write.vbproj",
       "projectName": "textfile-read-write",
-      "projectPath": "C:\\Users\\ihsaa\\GitHub Projects\\textfiles-display-append\\textfile-read-write\\textfile-read-write\\textfile-read-write.vbproj",
+      "projectPath": "F:\\GitHub Projects\\textfiles-display-append\\textfile-read-write\\textfile-read-write\\textfile-read-write.vbproj",
       "packagesPath": "C:\\Users\\ihsaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ihsaa\\GitHub Projects\\textfiles-display-append\\textfile-read-write\\textfile-read-write\\obj\\",
+      "outputPath": "F:\\GitHub Projects\\textfiles-display-append\\textfile-read-write\\textfile-read-write\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,7 @@
         "net6.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -69,7 +68,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

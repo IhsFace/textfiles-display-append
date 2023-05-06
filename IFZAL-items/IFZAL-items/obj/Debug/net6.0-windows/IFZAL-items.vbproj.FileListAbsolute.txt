@@ -1,0 +1,17 @@
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\bin\Debug\net6.0-windows\IFZAL-items.exe
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\bin\Debug\net6.0-windows\IFZAL-items.deps.json
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\bin\Debug\net6.0-windows\IFZAL-items.runtimeconfig.json
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\bin\Debug\net6.0-windows\IFZAL-items.dll
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\bin\Debug\net6.0-windows\IFZAL-items.pdb
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\obj\Debug\net6.0-windows\IFZAL-items.vbproj.AssemblyReference.cache
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\obj\Debug\net6.0-windows\IFZAL_items.Form1.resources
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\obj\Debug\net6.0-windows\IFZAL-items.vbproj.GenerateResource.cache
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\obj\Debug\net6.0-windows\IFZAL-items.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\obj\Debug\net6.0-windows\IFZAL-items.AssemblyInfoInputs.cache
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\obj\Debug\net6.0-windows\IFZAL-items.AssemblyInfo.vb
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\obj\Debug\net6.0-windows\IFZAL-items.vbproj.CoreCompileInputs.cache
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\obj\Debug\net6.0-windows\IFZAL-items.dll
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\obj\Debug\net6.0-windows\refint\IFZAL-items.dll
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\obj\Debug\net6.0-windows\IFZAL-items.pdb
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\obj\Debug\net6.0-windows\IFZAL-items.genruntimeconfig.cache
+F:\GitHub Projects\textfiles-display-append\IFZAL-items\IFZAL-items\obj\Debug\net6.0-windows\ref\IFZAL-items.dll
