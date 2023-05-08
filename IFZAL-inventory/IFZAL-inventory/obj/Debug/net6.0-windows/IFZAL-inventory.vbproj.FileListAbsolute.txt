@@ -1,0 +1,17 @@
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\bin\Debug\net6.0-windows\IFZAL-inventory.exe
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\bin\Debug\net6.0-windows\IFZAL-inventory.deps.json
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\bin\Debug\net6.0-windows\IFZAL-inventory.runtimeconfig.json
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\bin\Debug\net6.0-windows\IFZAL-inventory.dll
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\bin\Debug\net6.0-windows\IFZAL-inventory.pdb
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\obj\Debug\net6.0-windows\IFZAL-inventory.vbproj.AssemblyReference.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\obj\Debug\net6.0-windows\IFZAL_inventory.Form1.resources
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\obj\Debug\net6.0-windows\IFZAL-inventory.vbproj.GenerateResource.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\obj\Debug\net6.0-windows\IFZAL-inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\obj\Debug\net6.0-windows\IFZAL-inventory.AssemblyInfoInputs.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\obj\Debug\net6.0-windows\IFZAL-inventory.AssemblyInfo.vb
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\obj\Debug\net6.0-windows\IFZAL-inventory.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\obj\Debug\net6.0-windows\IFZAL-inventory.dll
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\obj\Debug\net6.0-windows\refint\IFZAL-inventory.dll
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\obj\Debug\net6.0-windows\IFZAL-inventory.pdb
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\obj\Debug\net6.0-windows\IFZAL-inventory.genruntimeconfig.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-inventory\IFZAL-inventory\obj\Debug\net6.0-windows\ref\IFZAL-inventory.dll
