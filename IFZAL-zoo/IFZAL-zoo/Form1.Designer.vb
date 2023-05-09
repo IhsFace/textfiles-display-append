@@ -25,7 +25,8 @@ Partial Class Form1
         Label1 = New Label()
         btnDisplay = New Button()
         btnAdd = New Button()
-        btnLowStock = New Button()
+        btnListBlack = New Button()
+        btnTotal = New Button()
         Label2 = New Label()
         lstDisplay = New ListBox()
         SuspendLayout()
@@ -34,18 +35,18 @@ Partial Class Form1
         ' 
         Label1.AutoSize = True
         Label1.Font = New Font("Microsoft Sans Serif", 16F, FontStyle.Regular, GraphicsUnit.Point)
-        Label1.Location = New Point(200, 30)
+        Label1.Location = New Point(150, 30)
         Label1.Name = "Label1"
-        Label1.Size = New Size(210, 26)
+        Label1.Size = New Size(289, 26)
         Label1.TabIndex = 0
-        Label1.Text = "SHOP INVENTORY"
+        Label1.Text = "MAC'S MAGNIFICENT ZOO"
         ' 
         ' btnDisplay
         ' 
         btnDisplay.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
-        btnDisplay.Location = New Point(50, 75)
+        btnDisplay.Location = New Point(75, 75)
         btnDisplay.Name = "btnDisplay"
-        btnDisplay.Size = New Size(125, 35)
+        btnDisplay.Size = New Size(200, 35)
         btnDisplay.TabIndex = 1
         btnDisplay.Text = "Display All"
         btnDisplay.UseVisualStyleBackColor = True
@@ -53,31 +54,41 @@ Partial Class Form1
         ' btnAdd
         ' 
         btnAdd.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
-        btnAdd.Location = New Point(200, 75)
+        btnAdd.Location = New Point(300, 75)
         btnAdd.Name = "btnAdd"
-        btnAdd.Size = New Size(125, 35)
+        btnAdd.Size = New Size(200, 35)
         btnAdd.TabIndex = 2
-        btnAdd.Text = "Add item"
+        btnAdd.Text = "Add Animal"
         btnAdd.UseVisualStyleBackColor = True
         ' 
-        ' btnLowStock
+        ' btnListBlack
         ' 
-        btnLowStock.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
-        btnLowStock.Location = New Point(50, 125)
-        btnLowStock.Name = "btnLowStock"
-        btnLowStock.Size = New Size(275, 35)
-        btnLowStock.TabIndex = 3
-        btnLowStock.Text = "Items with low stock"
-        btnLowStock.UseVisualStyleBackColor = True
+        btnListBlack.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
+        btnListBlack.Location = New Point(75, 125)
+        btnListBlack.Name = "btnListBlack"
+        btnListBlack.Size = New Size(200, 35)
+        btnListBlack.TabIndex = 3
+        btnListBlack.Text = "List all Black Animals"
+        btnListBlack.UseVisualStyleBackColor = True
+        ' 
+        ' btnTotal
+        ' 
+        btnTotal.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
+        btnTotal.Location = New Point(300, 125)
+        btnTotal.Name = "btnTotal"
+        btnTotal.Size = New Size(200, 35)
+        btnTotal.TabIndex = 4
+        btnTotal.Text = "Total No. Animals"
+        btnTotal.UseVisualStyleBackColor = True
         ' 
         ' Label2
         ' 
         Label2.AutoSize = True
         Label2.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
-        Label2.Location = New Point(50, 175)
+        Label2.Location = New Point(75, 175)
         Label2.Name = "Label2"
         Label2.Size = New Size(86, 24)
-        Label2.TabIndex = 4
+        Label2.TabIndex = 5
         Label2.Text = "DISPLAY"
         ' 
         ' lstDisplay
@@ -85,10 +96,10 @@ Partial Class Form1
         lstDisplay.Font = New Font("Microsoft Sans Serif", 14F, FontStyle.Regular, GraphicsUnit.Point)
         lstDisplay.FormattingEnabled = True
         lstDisplay.ItemHeight = 24
-        lstDisplay.Location = New Point(50, 210)
+        lstDisplay.Location = New Point(75, 225)
         lstDisplay.Name = "lstDisplay"
-        lstDisplay.Size = New Size(475, 124)
-        lstDisplay.TabIndex = 5
+        lstDisplay.Size = New Size(425, 124)
+        lstDisplay.TabIndex = 6
         ' 
         ' Form1
         ' 
@@ -97,12 +108,13 @@ Partial Class Form1
         ClientSize = New Size(584, 361)
         Controls.Add(lstDisplay)
         Controls.Add(Label2)
-        Controls.Add(btnLowStock)
+        Controls.Add(btnTotal)
+        Controls.Add(btnListBlack)
         Controls.Add(btnAdd)
         Controls.Add(btnDisplay)
         Controls.Add(Label1)
         Name = "Form1"
-        Text = "SHOP INVENTORY"
+        Text = "MAC'S MAGNIFICENT ZOO"
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -110,7 +122,8 @@ Partial Class Form1
     Friend WithEvents Label1 As Label
     Friend WithEvents btnDisplay As Button
     Friend WithEvents btnAdd As Button
-    Friend WithEvents btnLowStock As Button
+    Friend WithEvents btnListBlack As Button
+    Friend WithEvents btnTotal As Button
     Friend WithEvents Label2 As Label
     Friend WithEvents lstDisplay As ListBox
 End Class

@@ -1,0 +1,17 @@
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\bin\Debug\net6.0-windows\IFZAL-zoo.exe
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\bin\Debug\net6.0-windows\IFZAL-zoo.deps.json
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\bin\Debug\net6.0-windows\IFZAL-zoo.runtimeconfig.json
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\bin\Debug\net6.0-windows\IFZAL-zoo.dll
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\bin\Debug\net6.0-windows\IFZAL-zoo.pdb
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\obj\Debug\net6.0-windows\IFZAL-zoo.vbproj.AssemblyReference.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\obj\Debug\net6.0-windows\IFZAL_zoo.Form1.resources
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\obj\Debug\net6.0-windows\IFZAL-zoo.vbproj.GenerateResource.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\obj\Debug\net6.0-windows\IFZAL-zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\obj\Debug\net6.0-windows\IFZAL-zoo.AssemblyInfoInputs.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\obj\Debug\net6.0-windows\IFZAL-zoo.AssemblyInfo.vb
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\obj\Debug\net6.0-windows\IFZAL-zoo.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\obj\Debug\net6.0-windows\IFZAL-zoo.dll
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\obj\Debug\net6.0-windows\refint\IFZAL-zoo.dll
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\obj\Debug\net6.0-windows\IFZAL-zoo.pdb
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\obj\Debug\net6.0-windows\IFZAL-zoo.genruntimeconfig.cache
+C:\Users\ihsaa\GitHub Projects\textfiles-display-append\IFZAL-zoo\IFZAL-zoo\obj\Debug\net6.0-windows\ref\IFZAL-zoo.dll
